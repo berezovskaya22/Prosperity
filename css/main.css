@@ -317,3 +317,13 @@ header a {
 		margin-left: auto;
 	}
 }
+
+@media screen and (max-width: 320px) {
+	.offer h1 {
+		font-size: 50px;
+		margin-bottom: 19px;
+		margin-top: 40px;
+		letter-spacing: 0.02em;
+		text-shadow: black 2px 2px 0px;
+	}
+}
